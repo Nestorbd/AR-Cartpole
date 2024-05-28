@@ -1,0 +1,9 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.html
+*.log
+*.out
+*.synctex.gz
+cartpole.md
+logs
